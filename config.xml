@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<widget xmlns        = "https://www.w3.org/ns/widgets"
+        xmlns:gap    = "https://phonegap.com/ns/1.0"
+        id           = "com.godwin.simpleBMI"
+        versionCode  = "1"
+        version      = "1.0.0">
+
+
+    <name>Simple BMI Calculator</name>
+
+    <description>A simple BMI calculator that helps you check weather you are over weight or not</description>
+    
+    <author href = "vixun.blogspot.com" email = "godwinnicholas22@gmail.com">
+    Godwin Nicholas
+    </author>  
+    
+    <preferences name = "orientation" value = "portrait" />
+    
+    <preference name = "fullscreen" value = "false" />
+</widget>
